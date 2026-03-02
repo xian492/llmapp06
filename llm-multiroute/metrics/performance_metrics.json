@@ -11,12 +11,36 @@
       "task_type": "classify",
       "model": "gemma3:4b",
       "latency_seconds": 1.4691
+    },
+    {
+      "timestamp": "2026-03-02T04:03:21.947367+00:00",
+      "task_type": "intent",
+      "model": "gemma3:12b",
+      "latency_seconds": 1.2858
+    },
+    {
+      "timestamp": "2026-03-02T04:03:44.630771+00:00",
+      "task_type": "classify",
+      "model": "gemma3:4b",
+      "latency_seconds": 1.5278
+    },
+    {
+      "timestamp": "2026-03-02T04:04:04.391488+00:00",
+      "task_type": "classify",
+      "model": "gemma3:4b",
+      "latency_seconds": 1.3593
+    },
+    {
+      "timestamp": "2026-03-02T04:04:25.488284+00:00",
+      "task_type": "classify",
+      "model": "gemma3:4b",
+      "latency_seconds": 1.6421
     }
   ],
   "summary": {
-    "p50_latency": 1.6123,
-    "p95_latency": 1.9989,
-    "avg_latency": 1.6123,
-    "total_requests": 2
+    "p50_latency": 1.4985,
+    "p95_latency": 1.8292,
+    "avg_latency": 1.5066,
+    "total_requests": 6
   }
 }
