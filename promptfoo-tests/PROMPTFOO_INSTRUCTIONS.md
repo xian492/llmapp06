@@ -25,4 +25,4 @@
   
   Or directly with npx:
   
-  npx promptfoo@latest eval -c classify.yaml
+  npx promptfoo@0.121.2 -c classify.yaml
