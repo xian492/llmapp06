@@ -49,4 +49,4 @@
   Add this in your repo settings (Settings > Secrets and variables > Actions):
   Secret: DOCKERHUB_TOKEN
   Purpose: Docker Hub access token for xianxx492 (generate at https://hub.docker.com/settings/security)
-  Use a Docker Hub access token rather than your password — you can create one under Account Settings > Security > Access Tokens.
+  Use a Docker Hub access token rather than your password — you can create one under Account Settings > Security > Access Tokens
